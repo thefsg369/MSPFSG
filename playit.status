@@ -1,465 +1,1170 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724616316079 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724630118777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616319147 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630121840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616322209 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630124900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616325270 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630127954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616328337 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630131015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616331405 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630134080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616334485 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630137140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616337555 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630140206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616340620 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630143279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616343699 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630146340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616346763 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630149406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616349824 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630152469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616352881 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630155530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616355944 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630158593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616359013 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630161660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616362080 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630164723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616365160 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630167785 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616368222 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630170845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616371291 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630173912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616374353 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630176985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616377415 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630180067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616380481 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630183149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616383554 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630186202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616386615 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630189264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616389674 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630192327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616392739 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630195390 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616395820 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630198447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616398898 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630201505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616401956 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630204567 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616405019 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630207625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616408084 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630210687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616411150 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630213754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616414216 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630216821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616417280 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630219903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616420342 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630222968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616423405 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630226024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616426498 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630229083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616429562 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630232166 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616432696 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630235227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616435759 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630238303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616438821 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630241373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616441901 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630244433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616444964 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630247496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616448025 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630250550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616451100 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630253605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616454161 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630256666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616457240 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630259726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616460304 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630262785 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616463370 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630265841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616466430 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630268902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616469499 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630271967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616472567 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630275034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616475631 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630278092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616478695 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630281149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616481773 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630284207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616484842 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630287270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616487913 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630290328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616490974 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630293391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616494044 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630296453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616497113 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630299551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616500182 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630302618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616503241 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630305685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616506303 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630308744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616509372 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630311812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616512441 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630314865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616515523 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630317925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616518594 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630320992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616521732 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630324066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616524792 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630327124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616527858 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630330196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616530927 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630333260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616533984 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630336335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616537052 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630339398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616540117 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630342455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616543203 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630345516 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616546284 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630348581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616549355 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630351640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616552416 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630354701 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616555488 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630357765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616558558 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630360829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616561626 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630363891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616564685 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630366949 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616567760 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630370011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616570824 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630373082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616573886 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630376143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616576951 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630379209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616580051 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630382270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616583246 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630385330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616586311 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630388386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616589374 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630391448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616592438 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630394515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616595499 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630397571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1724616598559 tunnel running, 1 tunnels registered
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630400901 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630404024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630407096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630410166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630413230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630416288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630419351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630422432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630425497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630428560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630431618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630434679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630437740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630440799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630443859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630446918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630449975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630453045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630456114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630459176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630462256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630465312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630468378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630471441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630474501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630477580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630480638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630483698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630486765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630489831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630492892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630495959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630499020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630502084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630505150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630508214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630511274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630514334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630517562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630520621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630523677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630526738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630529806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630532871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630535930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630538998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630542059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630545130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630548193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630551253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630554322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630557385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630560449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630563508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630566572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630569633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630572692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630575759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630578817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630581881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630584941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630588003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630591065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630594222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630597291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630600355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630603417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630606486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630609611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630612690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630615750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630618813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630621890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630624959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630628018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630631078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630634148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630637216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630640292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630643357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630646420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630649490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630652582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630655690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630658755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630661822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630664885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630667955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630671024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630674085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630677149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630680236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630683300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630686363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630689445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630692504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630695569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630698635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630701724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630704796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630707856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630710915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724630713981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+silver-informal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+hosting-mil.gl.at.ply.gg:3287 => 127.0.0.1:3287 (minecraft-bedrock)
